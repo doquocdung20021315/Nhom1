@@ -29,7 +29,9 @@ class MyHomePage extends StatelessWidget {
             TextSpan(
               children: [
                 TextSpan(text: "Hello ", style: TextStyle(fontFamily: "DancingScript", color: Colors.red, fontSize: 20)),
-                TextSpan(text: "World", style: TextStyle(fontFamily: "DancingScript", color: Colors.green, fontSize: 20)),
+                TextSpan(text: "World, ", style: TextStyle(fontFamily: "DancingScript", color: Colors.green, fontSize: 20)),
+                TextSpan(text: "Nguyễn Đình ", style: TextStyle(fontFamily: "DancingScript", color: Colors.red, fontSize: 20)),
+                TextSpan(text: "Chính, ", style: TextStyle(fontFamily: "DancingScript", color: Colors.green, fontSize: 20)),
               ]
             )
           )
