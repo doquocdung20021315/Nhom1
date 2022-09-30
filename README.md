@@ -15,4 +15,11 @@ Link đến bài tập lớn: https://github.com/ezseagull/Nhom1_App.git <br />
 Các màn hình đã làm được: Home, Search(1+2), Library <br />
 <br />
 ![screen-capture (3)](https://user-images.githubusercontent.com/80797568/193193198-c7e900e8-e3f1-4aa9-99c8-dbf9c9258f9a.gif)
+<br />
+Các màn hình: <br />
+![image](https://user-images.githubusercontent.com/80797568/193193728-7ef68fae-dda1-4c5d-9b7f-3ef82c37a2b4.png)
+<br />
+![image](https://user-images.githubusercontent.com/80797568/193193757-9c14e9a3-b811-4ee2-9b48-26cd160e68d2.png)
+<br />
+![image](https://user-images.githubusercontent.com/80797568/193193787-b1af635d-19d5-4407-a71d-6c2dbe243da9.png)
 
