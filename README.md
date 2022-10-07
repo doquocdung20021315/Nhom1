@@ -22,4 +22,9 @@ Các màn hình: <br />
 ![image](https://user-images.githubusercontent.com/80797568/193193757-9c14e9a3-b811-4ee2-9b48-26cd160e68d2.png)
 <br />
 ![image](https://user-images.githubusercontent.com/80797568/193193787-b1af635d-19d5-4407-a71d-6c2dbe243da9.png)
+# Tuần 5:<br />
+Link đến bài tập lớn: https://github.com/ezseagull/Nhom1_App.git <br />
+Hoàn thiện các màn hình tuần 4 và làm thêm giao diện màn hình: Album View, Song View <br />
 
+
+![screen-capture (4)](https://user-images.githubusercontent.com/80797568/194477665-9183ec35-17fc-4f81-b4f7-072ed804a4f9.gif) <br />
