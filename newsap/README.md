@@ -1,4 +1,5 @@
-# news_app_tut
+# news_app
+
 
 A new Flutter project.
 
