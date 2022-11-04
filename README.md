@@ -3,6 +3,19 @@
 20020154 Đinh Tiến Thành;<br />
 20021315 Đỗ Quốc Dũng;<br />
 <br />
+# Learning process
+[Tuần 2](#week-2)
+
+[Tuần 3](#week-3)
+
+[Tuần 4](#week-4)
+
+[Tuần 5](#week-5)
+
+[Tuần 6 + 7 + 8](#week-6, 7, 8)
+
+[Tuần 9](#week-9)
+
 # TUẦN 2:<br />
 ![image](https://user-images.githubusercontent.com/80797568/190577468-be074595-0b5a-49ea-8219-b598f7582119.png)
 <br />
@@ -23,8 +36,26 @@ Các màn hình: <br />
 <br />
 ![image](https://user-images.githubusercontent.com/80797568/193193787-b1af635d-19d5-4407-a71d-6c2dbe243da9.png)
 # Tuần 5:<br />
-Link đến bài tập lớn: https://github.com/ezseagull/Nhom1_App.git <br />
+Đường dẫn đến bài tập lớn: https://github.com/ezseagull/Nhom1_App.git <br />
 Hoàn thiện các màn hình tuần 4 và làm thêm giao diện màn hình: Album View, Song View <br />
 
 
 ![screen-capture (4)](https://user-images.githubusercontent.com/80797568/194477665-9183ec35-17fc-4f81-b4f7-072ed804a4f9.gif) <br />
+# Tuần 6 + 7 + 8: <br />
+Đường dẫn đến bài tập lớn: https://github.com/ezseagull/Nhom1_App.git <br />
+Thêm âm thanh cho SongView, AlbumView.<br />
+Thêm tìm kiếm theo bài hát.<br />
+Chỉnh sửa lại 1 số giao diện và dùng google API cho 1 phần back-end.<br />
+![image](https://user-images.githubusercontent.com/80797568/199895929-442037ad-7e6b-44c1-b977-796ad024d42b.png)<br />
+![image](https://user-images.githubusercontent.com/80797568/199896006-b3ad7b81-2e1f-408d-a27b-014d5da4bd20.png)<br />
+# Tuần 9:<br />
+Độ bao phủ:<br />
+![image](https://user-images.githubusercontent.com/80797568/199890948-8e5ef353-b717-4349-bd6d-dcbd2b1178b1.png) <br />
+Monkey Testing:<br />
+![image](https://user-images.githubusercontent.com/80797568/199891106-6473add5-412f-4d89-9dcf-85099cddf610.png) <br />
+Integratin Test:<br />
+![image](https://user-images.githubusercontent.com/80797568/199891379-d4d87576-8a9d-484d-ac74-8e3721c34670.png) <br />
+
+
+
+
