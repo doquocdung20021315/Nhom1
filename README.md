@@ -42,6 +42,18 @@ Monkey Testing:<br />
 ![image](https://user-images.githubusercontent.com/80797568/199891106-6473add5-412f-4d89-9dcf-85099cddf610.png) <br />
 Integratin Test:<br />
 ![image](https://user-images.githubusercontent.com/80797568/199891379-d4d87576-8a9d-484d-ac74-8e3721c34670.png) <br />
+# Tuần 11:<br />
+1. Các màn hình đã hoàn thiện được: <br />
+![image](https://user-images.githubusercontent.com/80797568/201280621-3a4bdfb2-c50d-4819-9150-85ed989feb65.png)<br />
+![image](https://user-images.githubusercontent.com/80797568/201280720-4e3bdefa-39b3-4c98-b878-ec0cdad79930.png)<br />
+![image](https://user-images.githubusercontent.com/80797568/201280853-7e877dcf-fd81-490a-b496-c32d61f41cb0.png)<br />
+![image](https://user-images.githubusercontent.com/80797568/201281048-50f3f0ed-0e93-4f2d-9d78-c717c8ed5157.png)<br />
+![screen-capture (5)](https://user-images.githubusercontent.com/80797568/201285705-eff4c729-4608-41ce-abcc-c53b6c27051b.gif)<br />
+2. API trao đổi dữ liệu với máy chủ: REST API.
+
+
+
+
 
 
 
