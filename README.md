@@ -43,6 +43,7 @@ Monkey Testing:<br />
 Integratin Test:<br />
 ![image](https://user-images.githubusercontent.com/80797568/199891379-d4d87576-8a9d-484d-ac74-8e3721c34670.png) <br />
 # Tuần 11:<br />
+Đường dẫn đến bài tập lớn: https://github.com/ezseagull/Nhom1_App.git <br />
 1. Các màn hình đã hoàn thiện được: <br />
 ![image](https://user-images.githubusercontent.com/80797568/201280621-3a4bdfb2-c50d-4819-9150-85ed989feb65.png)<br />
 ![image](https://user-images.githubusercontent.com/80797568/201280720-4e3bdefa-39b3-4c98-b878-ec0cdad79930.png)<br />
