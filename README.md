@@ -37,7 +37,7 @@ Chỉnh sửa lại 1 số giao diện và dùng google API cho 1 phần back-en
 ![image](https://user-images.githubusercontent.com/80797568/199896006-b3ad7b81-2e1f-408d-a27b-014d5da4bd20.png)<br />
 # Tuần 9:<br />
 Độ bao phủ:<br />
-![image](https://user-images.githubusercontent.com/80797568/199890948-8e5ef353-b717-4349-bd6d-dcbd2b1178b1.png) <br />
+![coverage](https://user-images.githubusercontent.com/80797631/205223943-bec21cd7-24d2-48d0-a05c-d3eba2f64b18.PNG) <br />
 Monkey Testing:<br />
 ![image](https://user-images.githubusercontent.com/80797568/199891106-6473add5-412f-4d89-9dcf-85099cddf610.png) <br />
 Integratin Test:<br />
